@@ -21,7 +21,7 @@ Ao final da execução, são gerados gráficos que permitem visualizar a evoluç
 
 ### Notebook principal
 
-* "simulacao_selecao_natural.ipynb"
+* "simulacao_selecao_natural_completo.ipynb"
 
 Este notebook contém toda a implementação do projeto, incluindo:
 
@@ -34,7 +34,7 @@ Este notebook contém toda a implementação do projeto, incluindo:
 
 ## Como executar
 
-1. Abra o notebook "simulacao_selecao_natural.ipynb".
+1. Abra o notebook "simulacao_selecao_natural_completo.ipynb".
 2. Execute as células na ordem em que aparecem.
 3. Escolha o ambiente desejado (neve ou floresta) e o tamanho da população inicial quando solicitado.
 4. Ao final da execução, observe os gráficos gerados e a discussão dos resultados.
