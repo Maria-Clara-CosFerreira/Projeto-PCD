@@ -3,7 +3,7 @@
 
 ## Projeto Final da Disciplina de Prática em Ciência de Dados
 
-Instituição de ensino vinculada aos desenvolvedores e colaboradores do Projeto: Ilum Escola de Ciência - CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
+Instituição de ensino vinculada à desenvolvedora do Projeto: Ilum Escola de Ciência - CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
 
 ## Autora
 
